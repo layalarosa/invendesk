@@ -2,6 +2,14 @@
 
 **Invendesk** es una aplicación de escritorio para gestionar las operaciones básicas de un pequeño negocio: inventario, clientes, ventas y reportes. Está desarrollada en Python con Tkinter y guarda la información localmente en una base de datos SQLite.
 
+## Licencia
+
+Copyright (C) 2026 Luis A Ayala Rosa.
+
+Invendesk se distribuye bajo la **GNU General Public License, versión 3 o posterior** (GPL-3.0-or-later). Consulta el archivo `LICENSE` para ver los términos completos.
+
+Puedes cobrar por distribuir el programa o por ofrecer soporte, pero quienes reciban una copia conservan las libertades que concede la GPL. Si distribuyes el ejecutable, también debes proporcionar u ofrecer el código fuente correspondiente bajo la misma licencia.
+
 ## Funcionalidades
 
 - **Inventario:** crear, editar, buscar y eliminar productos; consultar alertas de stock bajo o agotado; exportar productos a CSV.
